@@ -3,7 +3,7 @@
 [![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
 [![Build Status](https://api.travis-ci.com/dynamic-amm/smart-contracts.svg?branch=master&status=passed)](https://travis-ci.com/github/KyberNetwork/kyber_reserves_sc)
 
-This repository contains the dynamic-amm smart contracts.
+This repository is forked from the original which contains the dynamic-amm smart contracts.
 For more details, please visit the white paper([dynamic fee](https://github.com/dynamic-amm/dmm-protocol/blob/main/xyz.pdf)  and [amplfication algorithm](https://github.com/dynamic-amm/dmm-protocol/blob/main/apr_v2.pdf))and our [change log](CHANGELOG.md) (compared to uniswap)
 
 ## Package Manager
